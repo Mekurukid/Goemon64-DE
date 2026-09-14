@@ -2,7 +2,7 @@
 
 Eine inoffizielle deutsche Fan-Übersetzung für **Mystical Ninja Starring Goemon (Nintendo 64)** zur Verwendung mit **Goemon 64: Recompiled**.
 
-> **Status:** Beta v0.2.0  
+> **Status:** Beta v0.5.0  
 > **Übersetzt:** 927 Textsegmente  
 > **Schwerpunkt dieser Beta:** früher Oedo-Stadt-/Storybereich, Systemtexte, Gegenstände, Hinweise und erste Tutorials
 
@@ -10,7 +10,7 @@ Eine inoffizielle deutsche Fan-Übersetzung für **Mystical Ninja Starring Goemo
 
 Lade die aktuelle `.nrm`-Datei unter **Releases** herunter:
 
-**`Goemon64-DE-Beta-v0.2.0.nrm`**
+**`Goemon64-DE-Beta-v0.5.0.nrm`**
 
 Die ROM selbst wird **nicht** mitgeliefert.
 
@@ -19,18 +19,18 @@ Die ROM selbst wird **nicht** mitgeliefert.
 - Goemon 64: Recompiled
 - Mod-Unterstützung / `.nrm`-Modloader
 - eine eigene US-ROM von *Mystical Ninja Starring Goemon*
-- für diese Beta: Goemon64Recompiled **0.2.0-dev oder neuer**
+- für diese Beta: Goemon64Recompiled **0.5.0-dev oder neuer**
 
 Upstream-Projekt: https://github.com/klorfmorf/Goemon64Recomp
 
 ## 🛠️ Installation
 
-1. Lade `Goemon64-DE-Beta-v0.2.0.nrm` aus dem neuesten GitHub-Release herunter.
+1. Lade `Goemon64-DE-Beta-v0.5.0.nrm` aus dem neuesten GitHub-Release herunter.
 2. Starte **Goemon 64: Recompiled**.
 3. Öffne das Menü **Mods**.
 4. Wähle **Mod installieren**.
 5. Wähle die heruntergeladene `.nrm`-Datei aus.
-6. Aktiviere **Deutsche Uebersetzung (Beta v0.2.0)**.
+6. Aktiviere **Deutsche Uebersetzung (Beta v0.5.0)**.
 7. Deaktiviere ältere Versionen der Übersetzungsmod.
 8. Starte das Spiel bzw. Goemon64Recompiled vollständig neu.
 
