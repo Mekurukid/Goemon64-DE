@@ -1,0 +1,37 @@
+# ROMs / copyrighted game data - NEVER commit these
+*.z64
+*.n64
+*.v64
+*.rom
+*.bin
+
+# Decompressed or generated ROM images
+*decompressed*
+*patched*.z64
+*target*.z64
+
+# Build outputs
+/dist/
+/build/
+*.bps
+*.nrm
+*.log
+*.tmp
+
+# Local text dumps / QA output
+*_text_dump.json
+*_text_dump.tsv
+*-QA.txt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+dist/

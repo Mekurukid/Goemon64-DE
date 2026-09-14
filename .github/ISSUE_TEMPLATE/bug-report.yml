@@ -1,0 +1,53 @@
+name: Technischer Fehler
+about: Probleme beim Installieren, Laden oder Spielen der Mod
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: Danke für deine Meldung. Bitte gib so viele Details wie möglich an.
+  - type: input
+    id: mod_version
+    attributes:
+      label: Mod-Version
+      placeholder: z. B. Beta v0.8.5
+    validations:
+      required: true
+  - type: input
+    id: recomp_version
+    attributes:
+      label: Goemon64Recompiled-Version
+      placeholder: z. B. 0.2.0-dev
+    validations:
+      required: true
+  - type: dropdown
+    id: os
+    attributes:
+      label: Betriebssystem
+      options:
+        - Linux
+        - Windows
+        - macOS
+        - Anderes
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Fehlerbeschreibung
+      description: Was passiert genau?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zum Reproduzieren
+      placeholder: |
+        1. ...
+        2. ...
+        3. ...
+    validations:
+      required: true
+  - type: textarea
+    id: extra
+    attributes:
+      label: Zusätzliche Informationen / Screenshots

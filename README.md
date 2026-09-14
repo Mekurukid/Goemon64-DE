@@ -2,149 +2,111 @@
 
 Eine inoffizielle deutsche Fan-Übersetzung für **Mystical Ninja Starring Goemon (Nintendo 64)** zur Verwendung mit **Goemon 64: Recompiled**.
 
-> **Status:** Beta v0.5.0  
-> **Übersetzt:** 1.796 Textsegmente  
-> **Schwerpunkt dieser Beta:** weitere Story- und NPC-Dialoge, zusätzliche Spielbereiche, Systemtexte, Gegenstände, Hinweise, Tutorials sowie Charakter- und Fähigkeitstexte
+> **Aktueller Release:** Beta v0.8.5  
+> **Status:** vollständige geprüfte Textabdeckung, weitere In-Game-Feinprüfung  
+> **Formatierung:** Originalfarben, Klammern/Satzzeichen, Auswahl-Hervorhebungen und Portrait-Textbox-Einrückungen werden nach der US-Original-ROM übernommen.
 
 ## 📥 Download
 
-Lade die aktuelle `.nrm`-Datei unter **Releases** herunter:
+Lade unter **Releases** die Datei herunter:
 
-**`Goemon64-DE-Beta-v0.5.0.nrm`**
+**`Goemon64-DE-Beta-v0.8.5.nrm`**
 
 Die ROM selbst wird **nicht** mitgeliefert.
 
 ## ✅ Voraussetzungen
 
-- Goemon 64: Recompiled
+- **Goemon 64: Recompiled**
 - Mod-Unterstützung / `.nrm`-Modloader
-- eine eigene US-ROM von *Mystical Ninja Starring Goemon*
-- für diese Beta: Goemon64Recompiled **0.5.0-dev oder neuer**
+- eigene legal erstellte US-ROM von *Mystical Ninja Starring Goemon*
+- Goemon64Recompiled **0.2.0-dev oder neuer**
 
-Upstream-Projekt: https://github.com/klorfmorf/Goemon64Recomp
+Upstream: https://github.com/klorfmorf/Goemon64Recomp
 
 ## 🛠️ Installation
 
-1. Lade `Goemon64-DE-Beta-v0.5.0.nrm` aus dem neuesten GitHub-Release herunter.
-2. Starte **Goemon 64: Recompiled**.
-3. Öffne das Menü **Mods**.
-4. Wähle **Mod installieren**.
-5. Wähle die heruntergeladene `.nrm`-Datei aus.
-6. Aktiviere **Deutsche Uebersetzung (Beta v0.5.0)**.
-7. Deaktiviere ältere Versionen der Übersetzungsmod.
-8. Starte das Spiel bzw. Goemon64Recompiled vollständig neu.
+1. `Goemon64-DE-Beta-v0.8.5.nrm` aus dem neuesten Release herunterladen.
+2. **Goemon 64: Recompiled** starten.
+3. **Mods** öffnen.
+4. **Mod installieren** wählen und die `.nrm` auswählen.
+5. **Deutsche Uebersetzung Beta v0.8.5** aktivieren.
+6. Alle älteren Goemon64-DE-Versionen deaktivieren.
+7. Goemon64Recompiled vollständig neu starten.
 
-Eine ausführlichere Anleitung findest du unter [docs/INSTALLATION.md](docs/INSTALLATION.md).
+Mehr: [docs/INSTALLATION.md](docs/INSTALLATION.md)
 
-# 🇩🇪 Goemon64-DE – Beta v0.5.0
+## 🇩🇪 Was ist übersetzt?
 
-Ein neues Update der deutschen Übersetzung für **Mystical Ninja Starring Goemon** ist da!
+Der geprüfte Textkatalog ist vollständig deutsch abgedeckt. Dazu gehören unter anderem:
 
-## 🆕 Änderungen
+- Story- und NPC-Dialoge
+- Menüs und Systemmeldungen
+- Shops, Restaurants und Gasthäuser
+- Speichern / Abenteuerbuch
+- Gegenstands-, Schlüssel- und Fähigkeitsmeldungen
+- Trainings- und Minispieltexte
+- Karten-, Status- und Optionshinweise
+- versteckte UI-/Nachspieltexte, soweit sie als ROM-Text vorliegen
 
-- 🇩🇪 Deutlich mehr Spieltexte ins Deutsche übersetzt
-- 💬 Weitere NPC-Dialoge übersetzt
-- 🎮 Weitere Menü- und Systemtexte übersetzt
-- 📖 Weitere Storytexte bearbeitet
-- 😂 Dialoge überarbeitet, damit Humor und Charakter des englischen Originals auch auf Deutsch möglichst gut erhalten bleiben
-- ✍️ Viele Formulierungen natürlicher gestaltet
-- 🔧 Bereits vorhandene Übersetzungen verbessert und korrigiert
-- 📝 Rechtschreibung und Zeichensetzung an mehreren Stellen überarbeitet
-- 🎭 Wortspiele und ungewöhnliche Dialoge teilweise neu angepasst, damit sie im Deutschen besser funktionieren
-- 🛠️ Kleinere Fehler aus vorherigen Beta-Versionen behoben
+Humor, Wortspiele und Figurenstimmen werden **sinngemäß** ins Deutsche übertragen, nicht steif Wort für Wort.
 
-## ⚠️ Beta-Hinweis
+## 🎨 Originalgetreue Textformatierung
 
-Die Übersetzung ist weiterhin **nicht vollständig**.
+Beta v0.8.5 übernimmt die Formatierungslogik der englischen US-ROM möglichst exakt:
 
-Im Spiel können deshalb noch:
+- Gelb, Rot, Grün und Blau
+- farbige Namen und Schlüsselbegriffe
+- `[Klammern]` und `(Klammern)`, wenn diese im Original Teil der Farbe sind
+- farbige Satzzeichen, Ellipsen und Apostrophe
+- Auswahl-Hervorhebungen
+- Groß-/Blinkeffekte
+- blockübergreifende Farbzustände
+- Portrait-/Avatar-Einrückungen
 
-- englische Texte
-- nicht übersetzte NPC-Dialoge
-- Tippfehler
-- abgeschnittene Texte
-- oder noch nicht optimal formulierte Übersetzungen
+Die deutsche Satzstellung wird bei Bedarf angepasst, damit das entsprechende deutsche Wort vollständig und korrekt formatiert werden kann.
 
-auftauchen.
+## ✅ QA Beta v0.8.5
 
-Wenn ihr etwas findet, könnt ihr gerne ein **GitHub Issue** erstellen. Screenshots und die genaue Stelle im Spiel helfen dabei sehr.
+- **5.393** Textreferenzen geprüft
+- **5.147** Übersetzungseinträge
+- **1.931 / 1.931** Original-Farbspannen erhalten
+- **327** Klammer-/Bracket-Farbmarkierungen geprüft
+- **0** Scriptfehler
+- **0** unbekannte Zeichen
+- **0** Farbgrenzen mitten im Wort
+- **0** sichtbare Textabweichungen
 
-## 📦 Update
+Details: `QA-Bericht-v0.8.5.txt` im Release.
 
-**Version:** `Beta v0.5.0`
+## ⚠️ Beta / bekannte Grenzen
 
-**Datei:** `Goemon64-DE-Beta-v0.5.0.nrm`
-
-Vor der Installation sollte eine ältere Version der Übersetzungsmod deaktiviert bzw. entfernt werden.
-
----
-
-Danke an alle, die das Projekt testen und Feedback geben! ❤️
-
-Die Übersetzung wird weiter Stück für Stück erweitert und verbessert.
-
-**Viel Spaß mit Goemon64-DE Beta v0.5.0! 🇩🇪🥷**
-
-— **Mekurukid**
+- v0.8.5 bleibt bewusst Beta, bis noch mehr komplette In-Game-Durchläufe erfolgt sind.
+- Texte, die fest als **Grafik/Textur** im Original gespeichert sind, gehören nicht zum normalen ROM-Textkatalog und können separat behandelt werden.
+- Die Spieldaten verwenden aufgrund der Zeichentabelle überwiegend `ae`, `oe`, `ue` und `ss`.
+- Immer nur **eine** Version von Goemon64 DE gleichzeitig aktivieren.
 
 ## 🐞 Fehler melden
 
-Wenn ein Text falsch, abgeschnitten oder weiterhin Englisch ist, erstelle bitte ein Issue und nutze die Vorlage **Übersetzungsfehler**.
+Bitte über **Issues → Übersetzungsfehler** melden und möglichst angeben:
 
-Hilfreich sind:
-
+- Mod-Version: Beta v0.8.5
 - Ort / Szene
-- Name des NPCs oder Menüs
-- aktueller Text
-- gewünschte Formulierung
-- Screenshot, falls möglich
-- verwendete Mod-Version
+- NPC / Menü
+- sichtbarer deutscher Text
+- Screenshot
+- was falsch wirkt (Text, Farbe, Klammer, Einrückung, Doppelung usw.)
 
-Siehe auch [docs/TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md).
+## 📜 Lizenz / Rechtliches
 
-## 🔨 Selbst bauen
+Eigene Tools und Dokumentation stehen unter der MIT-Lizenz. Rechte am Originalspiel, seinen Figuren, Texten, Grafiken, Musik- und Spieldaten verbleiben bei den jeweiligen Rechteinhabern.
 
-Das Repository enthält ein reproduzierbares Build-Werkzeug. Eine ROM wird dabei **nicht** gespeichert oder verteilt.
-
-```bash
-python3 tools/build_mod.py \
-  --rom "/pfad/zu/Mystical Ninja Starring Goemon (USA).n64" \
-  --translation translations/de_DE.json \
-  --output-dir dist
-```
-
-Das Skript:
-
-1. erkennt `.z64`, `.n64` und `.v64`,
-2. normalisiert die ROM intern auf Big-Endian,
-3. prüft die unterstützte US-ROM,
-4. dekomprimiert die Goemon-ROM-Struktur,
-5. liest die Texttabellen,
-6. trägt `translations/de_DE.json` ein,
-7. baut `patch.bps`,
-8. erstellt die fertige `.nrm`.
-
-Mehr dazu: [docs/BUILDING.md](docs/BUILDING.md).
-
-## 🤝 Mithelfen
-
-Korrekturen und bessere deutsche Formulierungen sind willkommen. Bitte lies vorher [CONTRIBUTING.md](CONTRIBUTING.md).
-
-## 🗺️ Roadmap
-
-Siehe [docs/ROADMAP.md](docs/ROADMAP.md).
-
-## 📜 Lizenz und Rechtliches
-
-Die eigenen Tools und die eigene Dokumentation dieses Repositorys stehen unter der MIT-Lizenz. Rechte an *Mystical Ninja Starring Goemon* und allen Original-Spieldaten verbleiben bei den jeweiligen Rechteinhabern.
-
-Dieses Projekt enthält **keine ROM**. Siehe [LEGAL.md](LEGAL.md).
+**Dieses Repository und seine Releases enthalten keine ROM.** Siehe [LEGAL.md](LEGAL.md).
 
 ## ❤️ Credits
 
-- **Mekurukid** – Projekt, deutsche Fan-Übersetzung und Tests
+- **Mekurukid** – Projekt, deutsche Fan-Übersetzung, Tests und Release-Pflege
 - **klorfmorf / Goemon64Recomp** – Goemon 64: Recompiled
-- **N64Recomp-Team** – N64Recomp / N64ModernRuntime
-- Konami – Originalspiel *Mystical Ninja Starring Goemon*
+- **N64Recomp-Team** – N64: Recompiled / Runtime-Grundlage
+- **Konami** – Originalspiel *Mystical Ninja Starring Goemon*
 
 Weitere Hinweise: [CREDITS.md](CREDITS.md)

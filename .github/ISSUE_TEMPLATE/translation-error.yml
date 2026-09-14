@@ -1,0 +1,34 @@
+name: Übersetzungsfehler
+about: Falscher, fehlender oder abgeschnittener deutscher Text
+labels: [translation]
+body:
+  - type: input
+    id: mod_version
+    attributes:
+      label: Mod-Version
+      placeholder: z. B. Beta v0.8.5
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: Ort / Szene
+      placeholder: z. B. Oedo-Stadt, NPC am Tor
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Aktueller Text
+      description: Was steht aktuell im Spiel?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Vorschlag / gewünschter Text
+      description: Wie sollte der Text deiner Meinung nach lauten?
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Screenshot / weitere Hinweise

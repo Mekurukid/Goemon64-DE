@@ -1,10 +1,10 @@
 {
   "game_id": "mnsg",
-  "id": "goemon64_de_beta_v020",
-  "version": "0.2.0",
-  "display_name": "Deutsche Uebersetzung (Beta v0.2.0)",
-  "description": "Deutsche Fan-Uebersetzung fuer Mystical Ninja Starring Goemon. Beta v0.2.0 uebersetzt Systemtexte, Gegenstaende, erste Storyszenen und den fruehen Oedo-Stadt-Dialogblock.",
-  "short_description": "Deutsche Fan-Uebersetzung - erweiterter Oedo-Startbereich",
+  "id": "goemon64_de_v085",
+  "version": "0.8.5",
+  "display_name": "Deutsche Uebersetzung Beta v0.8.5",
+  "description": "Inoffizielle deutsche Fan-Uebersetzung fuer Mystical Ninja Starring Goemon. Beta v0.8.5 enthaelt die vollstaendige textbasierte deutsche Uebersetzung des geprueften ROM-Textkatalogs sowie originalgetreue Farbmarkierungen, Klammern, Satzzeichen, Auswahlfarben und Portrait-Textbox-Einrueckungen. Humor und Figurenstimmen wurden sinngemaess ins Deutsche uebertragen. Diese Beta bleibt fuer weitere In-Game-Feinpruefung offen.",
+  "short_description": "Deutsche Komplettuebersetzung (Beta) mit originalgetreuer Textformatierung",
   "authors": [
     "Mekurukid"
   ],

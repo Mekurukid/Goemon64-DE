@@ -32,9 +32,9 @@ Für direkte Änderungen an der Übersetzung:
 
 - natürliches, verständliches Deutsch
 - Namen und spielinterne Eigennamen konsistent halten
-- wegen der aktuellen Zeichentabelle bevorzugt `ae`, `oe`, `ue` und `ss`
+- wegen der aktuellen ROM-Zeichentabelle in den Spieldaten bevorzugt `ae`, `oe`, `ue` und `ss`
 - möglichst kurze Formulierungen, wenn das Originalfeld wenig Platz bietet
-- Steuer-/Formatcodes im Originaltext nicht manuell in die Übersetzung kopieren; der Builder erhält notwendige Strukturcodes
+- Formatierung immer am englischen Original ausrichten: Farben, Klammern und Satzzeichen dürfen nicht frei erfunden werden; die semantische Zuordnung muss zum deutschen Gegenstück passen
 
 ## Nicht erlaubt
 

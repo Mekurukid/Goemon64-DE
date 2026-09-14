@@ -1,0 +1,33 @@
+Goemon64 DE QA-Bericht
+
+Version: 0.8.5 (Beta)
+Textreferenzen: 5393
+Uebersetzungseintraege: 5147
+Originale Farbspannen gesamt: 1931
+Farbspannen im gepatchten ROM: 1931
+Gelbe Farbspannen Original/Deutsch: 1897/1897
+Rote Farbspannen Original/Deutsch: 29/29
+Gruene Farbspannen Original/Deutsch: 4/4
+Blaue Farbspannen Original/Deutsch: 1/1
+Gepruefte Satzzeichen-/Klammer-Farbpositionen: 5655
+Abweichende Satzzeichen-/Klammer-Farbpositionen: 0
+Semantisch explizit zugeordnete deutsche Farbspannen: 1930
+Davon Klammer-/Bracket-bezogene Farbspannen: 327
+Im Original farbige Sprechername-Spannen: 4
+Style-Code-Sequenzabweichungen (Farbe/Gross/Blink): 0
+Farbgrenzen mitten im deutschen Wort: 0
+Semantisch falsch platzierte Farbspannen: 0
+Neu platzierte Textdatensaetze: 5287
+Sichere Textpools: 44
+Mitgenutztes originales Null-Padding: 5422 Bytes
+Menue/System-Strings gepatcht: 72
+Zusaetzliche ASCII-UI-Strings gepatcht: 137
+Scriptfehler: 0
+Unbekannte Zeichen: 0
+Sichttext-Abweichungen: 0
+Quell-ROM SHA256 (normalisiert): 1603be37427a33548857fc3d2e8867ede71121c353fb631b79b44f1d94845d80
+Zielbild SHA1: 8213a10e737183e3cf0a51323b9d631d0e8aaee5
+BPS SHA256: 9411366da4fb1751587ee5ea4b8902a09c2634505ed926eccaeff55f041e6661
+NRM SHA256: 589594f4ee99f05ec755ebe97a06d06dab7d7113dd1a919303ecfec9c96c408e
+
+PASS
