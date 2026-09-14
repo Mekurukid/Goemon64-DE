@@ -3,8 +3,8 @@
 Eine inoffizielle deutsche Fan-Übersetzung für **Mystical Ninja Starring Goemon (Nintendo 64)** zur Verwendung mit **Goemon 64: Recompiled**.
 
 > **Status:** Beta v0.5.0  
-> **Übersetzt:** 927 Textsegmente  
-> **Schwerpunkt dieser Beta:** früher Oedo-Stadt-/Storybereich, Systemtexte, Gegenstände, Hinweise und erste Tutorials
+> **Übersetzt:** 1.796 Textsegmente  
+> **Schwerpunkt dieser Beta:** weitere Story- und NPC-Dialoge, zusätzliche Spielbereiche, Systemtexte, Gegenstände, Hinweise, Tutorials sowie Charakter- und Fähigkeitstexte
 
 ## 📥 Download
 
