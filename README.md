@@ -36,30 +36,56 @@ Upstream-Projekt: https://github.com/klorfmorf/Goemon64Recomp
 
 Eine ausführlichere Anleitung findest du unter [docs/INSTALLATION.md](docs/INSTALLATION.md).
 
-## 🇩🇪 Was ist bereits übersetzt?
+# 🇩🇪 Goemon64-DE – Beta v0.5.0
 
-Beta v0.2.0 enthält derzeit **927 Übersetzungseinträge**. Davon liegen **667 Einträge im frühen Oedo-Textbereich**.
+Ein neues Update der deutschen Übersetzung für **Mystical Ninja Starring Goemon** ist da!
 
-Enthalten sind unter anderem:
+## 🆕 Änderungen
 
-- erste Dialoge und NPCs in Oedo-Stadt
-- frühe Storytexte
-- Torwächter und Polizisten
-- Omitsu-/UFO-bezogene frühe Dialoge
-- Schilder und Wegbeschreibungen
-- Speichern sowie Ja/Nein-Abfragen
-- Gegenstands- und Schlüsselmeldungen
-- erste Waffen-/Fähigkeiten-Hinweise
-- frühe Orts- und Burgbezeichnungen
+- 🇩🇪 Deutlich mehr Spieltexte ins Deutsche übersetzt
+- 💬 Weitere NPC-Dialoge übersetzt
+- 🎮 Weitere Menü- und Systemtexte übersetzt
+- 📖 Weitere Storytexte bearbeitet
+- 😂 Dialoge überarbeitet, damit Humor und Charakter des englischen Originals auch auf Deutsch möglichst gut erhalten bleiben
+- ✍️ Viele Formulierungen natürlicher gestaltet
+- 🔧 Bereits vorhandene Übersetzungen verbessert und korrigiert
+- 📝 Rechtschreibung und Zeichensetzung an mehreren Stellen überarbeitet
+- 🎭 Wortspiele und ungewöhnliche Dialoge teilweise neu angepasst, damit sie im Deutschen besser funktionieren
+- 🛠️ Kleinere Fehler aus vorherigen Beta-Versionen behoben
 
-Die Übersetzung ist **noch nicht vollständig**. Einige Bereiche des Spiels bleiben in dieser Beta auf Englisch.
+## ⚠️ Beta-Hinweis
 
-## ⚠️ Bekannte Einschränkungen
+Die Übersetzung ist weiterhin **nicht vollständig**.
 
-- Noch keine 100-%-Übersetzung des gesamten Spiels.
-- Einige Texte sind bewusst kürzer formuliert, weil die ursprünglichen N64-Textfelder feste Platzgrenzen haben.
-- In der aktuellen Beta werden wegen der ursprünglichen Zeichentabelle überwiegend Schreibweisen wie `ae`, `oe` und `ue` verwendet.
-- Alte Versionen der Mod sollten nicht gleichzeitig aktiviert sein.
+Im Spiel können deshalb noch:
+
+- englische Texte
+- nicht übersetzte NPC-Dialoge
+- Tippfehler
+- abgeschnittene Texte
+- oder noch nicht optimal formulierte Übersetzungen
+
+auftauchen.
+
+Wenn ihr etwas findet, könnt ihr gerne ein **GitHub Issue** erstellen. Screenshots und die genaue Stelle im Spiel helfen dabei sehr.
+
+## 📦 Update
+
+**Version:** `Beta v0.5.0`
+
+**Datei:** `Goemon64-DE-Beta-v0.5.0.nrm`
+
+Vor der Installation sollte eine ältere Version der Übersetzungsmod deaktiviert bzw. entfernt werden.
+
+---
+
+Danke an alle, die das Projekt testen und Feedback geben! ❤️
+
+Die Übersetzung wird weiter Stück für Stück erweitert und verbessert.
+
+**Viel Spaß mit Goemon64-DE Beta v0.5.0! 🇩🇪🥷**
+
+— **Mekurukid**
 
 ## 🐞 Fehler melden
 
